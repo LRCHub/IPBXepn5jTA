@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "若者のすべて(Wakamono No Subete)",
+  "base_artist": "フジファブリック",
+  "createdAt": "2026-01-11T14:35:13.914618Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "若者のすべて(Wakamono No Subete)",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/01_若者のすべて(Wakamono_No_Subete)_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "若者のすべて - Wakamono No Subete",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/02_若者のすべて_-_Wakamono_No_Subete_Fujifabric.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "若者のすべて",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/pl_01_若者のすべて_フジファブリック.txt"
+    }
+  ]
+}
